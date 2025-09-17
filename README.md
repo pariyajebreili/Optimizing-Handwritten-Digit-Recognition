@@ -1,4 +1,4 @@
-# Optimizing Handwritten Digit Recognition using KNN and Feature Engineering
+# Handwritten Digit Recognition with Feature Engineering and KNN Classification
 
 In this project, we utilized a dataset comprising 60,000 training and 10,000 testing images of handwritten digits, each with a resolution of 28x28 pixels.
 
